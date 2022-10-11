@@ -1,0 +1,16 @@
+C:\Users\bludr\Documents\GitHub\QR_Generator\bin\Debug\net5.0\QR_Generator.exe
+C:\Users\bludr\Documents\GitHub\QR_Generator\bin\Debug\net5.0\QR_Generator.deps.json
+C:\Users\bludr\Documents\GitHub\QR_Generator\bin\Debug\net5.0\QR_Generator.runtimeconfig.json
+C:\Users\bludr\Documents\GitHub\QR_Generator\bin\Debug\net5.0\QR_Generator.runtimeconfig.dev.json
+C:\Users\bludr\Documents\GitHub\QR_Generator\bin\Debug\net5.0\QR_Generator.dll
+C:\Users\bludr\Documents\GitHub\QR_Generator\bin\Debug\net5.0\ref\QR_Generator.dll
+C:\Users\bludr\Documents\GitHub\QR_Generator\bin\Debug\net5.0\QR_Generator.pdb
+C:\Users\bludr\Documents\GitHub\QR_Generator\obj\Debug\net5.0\QR_Generator.csproj.AssemblyReference.cache
+C:\Users\bludr\Documents\GitHub\QR_Generator\obj\Debug\net5.0\QR_Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bludr\Documents\GitHub\QR_Generator\obj\Debug\net5.0\QR_Generator.AssemblyInfoInputs.cache
+C:\Users\bludr\Documents\GitHub\QR_Generator\obj\Debug\net5.0\QR_Generator.AssemblyInfo.cs
+C:\Users\bludr\Documents\GitHub\QR_Generator\obj\Debug\net5.0\QR_Generator.csproj.CoreCompileInputs.cache
+C:\Users\bludr\Documents\GitHub\QR_Generator\obj\Debug\net5.0\QR_Generator.dll
+C:\Users\bludr\Documents\GitHub\QR_Generator\obj\Debug\net5.0\ref\QR_Generator.dll
+C:\Users\bludr\Documents\GitHub\QR_Generator\obj\Debug\net5.0\QR_Generator.pdb
+C:\Users\bludr\Documents\GitHub\QR_Generator\obj\Debug\net5.0\QR_Generator.genruntimeconfig.cache
